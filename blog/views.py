@@ -1,4 +1,5 @@
 from django.shortcuts import render
+# Fetch the data from the database
 from .models import Post
 # Add dummy data
 posts =[
